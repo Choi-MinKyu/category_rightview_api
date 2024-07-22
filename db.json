@@ -26,8 +26,8 @@
     }
   ],
   "profile": {
-    "id": 1
-    "name": "user_name"
+    "id": 1,
+    "name": "user_name",
     "coloe": 0x111111
   }
 }
